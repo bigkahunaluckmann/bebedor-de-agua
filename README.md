@@ -4,7 +4,7 @@ Lembrete de hidratação para Windows, com alarme de som de água, meta diária 
 
 ## ⬇️ Download
 
-Pegue a versão mais recente na aba **Releases** (ou no site abaixo):
+Pegue a versão mais recente na aba **Releases** (ou pelo site abaixo):
 
 - **Instalador** — instala no menu Iniciar e cria atalho na área de trabalho.
 - **Portátil** — roda sem instalar nada.
@@ -20,6 +20,10 @@ https://bigkahunaluckmann.github.io/bebedor-de-agua/
 ## ✨ Recursos
 
 - **4 sons de água**: gotas, água corrente, cachoeira e chuva
+- **Popup flutuante** do alarme, por cima de tudo (funciona com a janela na bandeja)
+- **Adiar 5, 10 ou 15 minutos**
+- **Não perturbe**: 1 hora, 2 horas ou até amanhã (volta sozinho)
+- **Meta inteligente**: calcula a meta ideal pelo peso e nível de atividade
 - Lembrete de 15 a 180 minutos, com presets
 - Meta diária com copo que enche conforme você registra
 - Horário silencioso (continua contando sem tocar)
@@ -27,3 +31,10 @@ https://bigkahunaluckmann.github.io/bebedor-de-agua/
 - Fica na **bandeja** e continua tocando com a janela fechada
 - **Inicia com o Windows**
 - Funciona offline; os dados ficam só no seu computador
+
+## 📌 Versões
+
+- **1.4.0** — popup flutuante, adiar 5/10/15, não perturbe, meta inteligente
+- 1.3.0 — 4 sons de água
+- 1.2.0 — correção de carregamento da interface
+- 1.0.0 — primeira versão
