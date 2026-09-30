@@ -34,7 +34,8 @@ https://bigkahunaluckmann.github.io/bebedor-de-agua/
 
 ## 📌 Versões
 
-- **1.4.0** — popup flutuante, adiar 5/10/15, não perturbe, meta inteligente
+- **1.4.1** — correção do botão "Iniciar com o Windows" (mostrava sempre desligado)
+- 1.4.0 — popup flutuante, adiar 5/10/15, não perturbe, meta inteligente
 - 1.3.0 — 4 sons de água
 - 1.2.0 — correção de carregamento da interface
 - 1.0.0 — primeira versão
